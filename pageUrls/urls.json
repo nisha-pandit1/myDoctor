@@ -1,0 +1,5 @@
+{
+    "home":"/",
+    "patient signup":"/auth/signup",
+    "doctor signup":"/auth/doctor-register"
+}
